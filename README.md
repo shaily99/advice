@@ -7,7 +7,7 @@ If you come across posts/tweet-threads/blogs/podcasts that belong here, feel fre
 ## Applications
 
 ### General
-* [NLP Highlights Podcasts: PHD Application Series - Preparing Aplication Materials](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel)
+* [AI2 NLP Highlights Podcasts: PHD Application Series - Preparing Aplication Materials](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel)
 
 ## Research
 
