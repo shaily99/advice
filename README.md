@@ -15,6 +15,15 @@ If you come across posts/tweet-threads/blogs/podcasts that belong here, feel fre
 
 ### SOP
 * [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider (Prof at Georgetown University)](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
+* [How to Write a Statement of Purpose for Grad School by Swapneel Mehta(PhD student at NYU](https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school) -- One of my personal favourites. Also contains example and other links
+
+#### Examples
+* [Jean Yang’s Statement of Purpose for a Ph.D. in Computer Science](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
+
+### CV
+
+#### Examples
+* [Jean Yang's Resume for CS PhD applications](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/jean_yang_resume.pdf)
 
 ### List of lists
 Most of the links in these lists will appear in the rest of the list otherwise anyway.
