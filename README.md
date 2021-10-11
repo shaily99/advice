@@ -1,5 +1,5 @@
 # Advice
-A repository of links with advice related to grad school applications, research, phd etc related to (usually but not always) CS, NLP, and ML.
+A repository of links with advice related to grad school applications, research, phd etc related to (usually but not always) CS, NLP, and ML. Some resources may be sourced from one of the other resource links.
 
 #### Contributing
 If you come across posts/tweet-threads/blogs/podcasts that belong here, feel free to create a pull request.
