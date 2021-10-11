@@ -17,7 +17,9 @@ If you come across posts/tweet-threads/blogs/podcasts that belong here, feel fre
 * [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider (Prof at Georgetown University)](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
 
 ### List of lists
-* [Kalpesh Krishna's post on an extensive list of useful grad school resoruces](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html) -- Most of the links here will appear in this list otherwise anyway.
+Most of the links here will appear in this list otherwise anyway.
+
+* [Kalpesh Krishna's post on an extensive list of useful grad school resoruces](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html) 
 
 ## Research
 
