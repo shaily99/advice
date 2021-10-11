@@ -9,4 +9,4 @@ If you come across posts/tweet-threads/blogs/podcasts that belong here, feel fre
 ## Research
 
 ### Advisor-Advisee Dynamics
-[The Many Ways of Doing a PhD](http://confluence.ias.ac.in/the-many-ways-of-doing-a-phd/)
+* [The Many Ways of Doing a PhD](http://confluence.ias.ac.in/the-many-ways-of-doing-a-phd/)
