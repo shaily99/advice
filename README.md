@@ -70,6 +70,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [A note on cold-mailing professors by Yontan Bisk](https://yonatanbisk.com/emailing_professors.html)
 * [A Guide to Cold Emailing by Eugene Vinitsky](https://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter) and [tweet thread](https://twitter.com/EugeneVinitsky/status/1288629007802462208)
 * [5 Tips for E-mailing Busy People](https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/)
+* [People you should cold mail other than the prospective advisor - a thread by Sanya Jain](https://twitter.com/sjay_yayy/status/1447192031248351236)
 
 ### SOP
 * [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider (Prof at Georgetown University)](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80) -- A Prof's perspective, really helpful.
@@ -116,6 +117,7 @@ Most of the links in these lists will appear in the rest of the list otherwise a
 * [CMU's page of advice](http://www.cs.cmu.edu/~callan/Students/)
 * [Casey Fiesler's youtube playlist on applying to phd programs](https://www.youtube.com/playlist?list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I)
 * [Sai Siddartha Maram's tweet thread with sources](https://twitter.com/MaramSiddartha/status/1446686616479666176?s=20)
+* [Application support programs - tweet thread compiled by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) -- the links may change every year.
 
 ## Research
 
@@ -134,7 +136,7 @@ Helpful for early(or all) stage researchers in general
 
 ### Research ideas
 * [How to find innovative ideas for your project](http://llcao.net/cu-deeplearning17/lecture/lecture5_llc.pdf)
-* [How to choose an NLP research project?](https://medium.com/@zhijing-jin/how-to-choose-an-nlp-research-project-58cb9bb5513e) -- Insights from the 1st ACL Year-Round Mentorship Session on September 9, 2021. Panelists: Rada Mihalcea (Professor at University of Michigan, @radamihalcea), Saif M. Mohammad (Senior Research Scientist at National Research Council Canada, @saifmmohammad), Soujanya Poria (Assistant Professor at Singapore University of Technology and Design, @soujanyaporia). Notetakers: Zhijing Jin (@ZhijingJin), Janet Liu (@janetlauyeung)
+* How to choose an NLP research project? [Talk](https://www.youtube.com/watch?v=jFWF0PX4Pcs) and [summary blog post](https://medium.com/@zhijing-jin/how-to-choose-an-nlp-research-project-58cb9bb5513e) -- Insights from the 1st ACL Year-Round Mentorship Session on September 9, 2021. Panelists: Rada Mihalcea (Professor at University of Michigan, @radamihalcea), Saif M. Mohammad (Senior Research Scientist at National Research Council Canada, @saifmmohammad), Soujanya Poria (Assistant Professor at Singapore University of Technology and Design, @soujanyaporia). Notetakers: Zhijing Jin (@ZhijingJin), Janet Liu (@janetlauyeung)
 * [Tweet thread by Jia-Bin Huang on coming up with research ideas](https://twitter.com/jbhuang0604/status/1423499757591400448)
 
 ### Writing, reviewing, rebutting, reading papers
@@ -156,6 +158,9 @@ Helpful for early(or all) stage researchers in general
 * [How to Read a Paper by S. Keshav](http://www.sigcomm.org/sites/default/files/ccr/papers/2007/July/1273445-1273458.pdf) -- The three pass approach, very helpful.
 * [Critical Reading by Emily Bender](https://faculty.washington.edu/ebender/critical_reading.pdf)
 * [Guide for Publishing in Conferences and Attending Them](https://shomir.net/scholarly_publishing.html)
+
+# Literature Surveying
+* [6 tips for navigating academic literature as a student by Lucinda Doyle](https://twitter.com/lucindaedoyle/status/1441711539858276357)
 
 ### Advisor-Advisee Dynamics
 * [The Many Ways of Doing a PhD](http://confluence.ias.ac.in/the-many-ways-of-doing-a-phd/)
