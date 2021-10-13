@@ -50,8 +50,6 @@ If you come across posts/tweet-threads/blogs/podcasts that belong here, feel fre
 ### LoRs
 * [How to get a great letter of recommendation](https://matt.might.net/articles/how-to-recommendation-letter/) 
 * [Requesting a letter of recommendation by Michael Ernst (UWash)](https://homes.cs.washington.edu/~mernst/advice/request-recommendation.html)
-
-#### Writing LoRs
 * [Advice to Graduate School Recommendation Letter Writers by Shriram Krishnamurthi](http://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
 * [How to write a letter of recommendation by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html)
 
