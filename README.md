@@ -26,6 +26,7 @@ __Table of Contents__
    * [Networking](#networking)
    * [Talks/Presentations](#talkspresentation)
    * [Productivity](#productivity)
+   * [Impostor's Syndrome](#impostors-syndrome)
    * [List of lists](#list-of-lists-1)
 
 ## Applications
