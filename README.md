@@ -15,7 +15,7 @@ If you come across posts/tweet-threads/blogs/podcasts that belong here, feel fre
 * [How to get into grad school for science, engineering, math, and CS by Matt Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
 * [Jean Yang's 7 part guide to applications](https://jxyzabc.blogspot.com/2008/08/cs-grad-school-part-1-deciding-to-apply.html)
 
-##### MS Specific
+#### MS Specific
 * [Demystification of the Graduate Admissions Process by Karthik Raghunathan (MS from stanford, now director of ML at Cisco)](https://nlp.stanford.edu/~rkarthik/DAGAP.pdf)
 
 #### Applying to Predoctoral programs
