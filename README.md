@@ -26,7 +26,7 @@ __Table of Contents__
     - [For grad students](#for-grad-students)
     - [Research ideas](#research-ideas)
     - [Writing, reviewing, rebutting, reading papers](#writing-reviewing-rebutting-reading-papers)
-- [Literature Surveying](#literature-surveying)
+    - [Literature Surveying](#literature-surveying)
     - [Advisor-Advisee Dynamics](#advisor-advisee-dynamics)
     - [Networking](#networking)
     - [Talks/Presentations](#talkspresentations)
@@ -191,7 +191,7 @@ Helpful for early(or all) stage researchers in general
 * [How to keep track with the literature? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1426039195542360070)
 * [How to write a review paper by Sanya Jain](https://twitter.com/sjay_yayy/status/1439288297008762881)
 
-# Literature Surveying
+### Literature Surveying
 * [6 tips for navigating academic literature as a student by Lucinda Doyle](https://twitter.com/lucindaedoyle/status/1441711539858276357)
 * [Honestly, WTF is a #LiteratureReview? by Adam Grachek](https://twitter.com/AdamGrachek/status/1445320964959571968)
 
