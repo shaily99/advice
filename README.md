@@ -4,9 +4,26 @@ A repository of links with advice related to grad school applications, research,
 #### Contributing
 If you come across posts/tweet-threads/blogs/podcasts that belong here, feel free to create a pull request.
 
-Table of Contents
+__Table of Contents__
 * [Applications](#applications)
   * [General](#general)
+   * [MS Specific](#ms-specific)
+   * [Applying to Predoctoral Programs](#applying-to-predoctoral-programs)
+   * [ToDo PhD or Not / What doing a PhD Entails](#todo-pdh-or-not--what-doing-a-phd-entails)
+ * [Selecting Schools](#selecting-schools)
+ * [SOP](#sop)
+  * [Examples](#examples)
+ * [LoRs](#lors)
+ * [CV](#cv)
+  * [Examples](#examples-1)
+ * [List of Lists](#list-of-lists)
+* [Research]
+ * [For grad students](#for-grad-students)
+ * [Writing, reviewing, rebuttal](#writing-reviewing-rebuttal)
+ * [Advisor-Advisee Dynamics](#advisor-advisee-dynamics)
+ * [Talks/Presentations](#talkspresentation)
+ * [Productivity](#productivity)
+ * [List of lists)(#list-of-lists-1)
 
 ## Applications
 
@@ -98,10 +115,8 @@ Helpful for early stage researchers in general
 * [Deep Work by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) -- Great book, worth a read
 * [Calendar, not to do lists by Devi Parikh (Prof at Georgia Tech)](https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-9ada86a512dd) -- Personal favourite productivity advice.
 * [Checking Email → Inbox Zero by Devi Parikh](https://deviparikh.medium.com/checking-email-to-inbox-zero-e00d478cdd4b) -- A clean inbox is a boon :D
-* 
 
 ### List of Lists
 * [Matt Might's articles](https://matt.might.net/articles/) -- Lot of advice for people at every stages. Resolutions for grad students is a must read.
-* [Reading for graduate students] -- Highly recommended list of lists
 * [Advice for researchers and students Compiled by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
 
