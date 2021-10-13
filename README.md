@@ -56,11 +56,13 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Advice for Undergraduates Considering Graduate School](https://pages.gseis.ucla.edu/faculty/agre/grad-school.html)
 * [Is it worth it to go to grad school in computational linguistics? by Emily Bender](https://medium.com/@emilymenonbender/is-it-worth-it-to-go-to-grad-school-in-computational-linguistics-7234f0bd4981)
 
-### Selecting Schools
+### Selecting Schools and Advisors
 * [A Vlog on using CSRankings to find CS PhD programs by Philip Guo](https://www.youtube.com/watch?v=z6TkkdlRWcU) -- Don't blindly go by rankings, but don't ignore them either.
 * [How to pick a grad school for a PhD in Computer Science by Vijay Chidambaram](https://vijayc.medium.com/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246)
 * [How to Pick Your Grad School by Tim Dettmers](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/)
 * [University Rankings for PhD Applications by Danish Pruthi and Mansi Gupta](https://latentfactors.blog/2020/12/06/university-rankings-for-phd-applications/)
+* [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov (HCII,CMU)](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
+* [How to Pick a Graduate Advisor](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)
 
 ### Reaching out to prospective advisors
 * [Tweet thread for a template to emailing prospective advisors by Casey Fiesler](https://twitter.com/cfiesler/status/1301907707579031555?s=20)
@@ -80,6 +82,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [5 Things to Do in a Statement of Purpose for PhD/Grad School | PhD SOP + an example (mine!) by Casey Fiesler](https://www.youtube.com/watch?v=B5-lrCaGLOw&list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I&index=11)
 * [Quora thread on What was your Statement of Purpose (SOP) for entering into a PhD program?](https://www.quora.com/What-was-your-Statement-of-Purpose-SOP-for-entering-into-a-PhD-program) -- great answers.
 * [Personal Statement Advice by Suchin Gururangan](https://suchin.io/personal-statement-advice/) -- with his own SOP attached
+* [MIT EECS's advice on Graduate School Personal Statement](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 
 #### Examples
 * [Jean Yang’s Statement of Purpose for a Ph.D. in Computer Science](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
@@ -112,6 +115,7 @@ Most of the links in these lists will appear in the rest of the list otherwise a
 * [Matt Might's articles](https://matt.might.net/articles/) -- Lot of good advice for people at every stages.
 * [CMU's page of advice](http://www.cs.cmu.edu/~callan/Students/)
 * [Casey Fiesler's youtube playlist on applying to phd programs](https://www.youtube.com/playlist?list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I)
+* [Sai Siddartha Maram's tweet thread with sources](https://twitter.com/MaramSiddartha/status/1446686616479666176?s=20)
 
 ## Research
 
