@@ -6,11 +6,11 @@ If you come across posts/tweet-threads/blogs/podcasts that belong here, feel fre
 
 __Table of Contents__
 * [Applications](#applications)
-  * [General](#general)
-   * [MS Specific](#ms-specific)
-   * [Applying to Predoctoral Programs](#applying-to-predoctoral-programs)
-   * [ToDo PhD or Not / What doing a PhD Entails](#todo-pdh-or-not--what-doing-a-phd-entails)
- * [Selecting Schools](#selecting-schools)
+ * [General](#general)
+    * [MS Specific](#ms-specific)
+    * [Applying to Predoctoral Programs](#applying-to-predoctoral-programs)
+    * [ToDo PhD or Not / What doing a PhD Entails](#todo-pdh-or-not--what-doing-a-phd-entails)
+  * [Selecting Schools](#selecting-schools)
  * [SOP](#sop)
   * [Examples](#examples)
  * [LoRs](#lors)
