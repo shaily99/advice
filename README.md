@@ -17,13 +17,13 @@ __Table of Contents__
  * [CV](#cv)
   * [Examples](#examples-1)
  * [List of Lists](#list-of-lists)
-* [Research]
+* [Research](#research)
  * [For grad students](#for-grad-students)
  * [Writing, reviewing, rebuttal](#writing-reviewing-rebuttal)
  * [Advisor-Advisee Dynamics](#advisor-advisee-dynamics)
  * [Talks/Presentations](#talkspresentation)
  * [Productivity](#productivity)
- * [List of lists)(#list-of-lists-1)
+ * [List of lists](#list-of-lists-1)
 
 ## Applications
 
