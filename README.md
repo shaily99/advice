@@ -59,6 +59,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 
 #### Research Internships
 * [How to find a research internships? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1438337355031719941)
+
 #### Applying to Predoctoral programs
 * [Demystifying the “Pre-Doctoral Researcher” role at Google Research, India by Shaily Bhatt (that's me)](https://shaily99.medium.com/demystifying-the-pre-doctoral-researcher-role-at-google-research-india-c063e5c73f10) -- I wrote this blog detailing my experience applying to the 'pre' doctoral program at Google. The advice is generally applicable for most predotoral/RA roles
 
@@ -68,6 +69,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Advice for Undergraduates Considering Graduate School](https://pages.gseis.ucla.edu/faculty/agre/grad-school.html)
 * [Is it worth it to go to grad school in computational linguistics? by Emily Bender](https://medium.com/@emilymenonbender/is-it-worth-it-to-go-to-grad-school-in-computational-linguistics-7234f0bd4981)
 * [Rabbit's Ph.D. Thesis and Lion's Watch Repair Business by Margaret Fleck](https://www.cs.hmc.edu/~fleck/parable.html)
+
 #### Misc
 * [A thread on how to strengthen your chances of admission if you have zero or few publications by Sanya Jain](https://twitter.com/sjay_yayy/status/1427669012800888938)
 
@@ -104,6 +106,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Personal Statement Advice by Suchin Gururangan](https://suchin.io/personal-statement-advice/) -- with his own SOP attached
 * [MIT EECS's advice on Graduate School Personal Statement](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 * [How to write an effective Statement of Purpose? by Sanya Jain](https://twitter.com/sjay_yayy/status/1429804578665467907)
+* [Structure is Magic: A Guide to the Graduate SOP](https://writeivy.com/structure-is-magic-a-guide-to-the-graduate-sop/)
 
 #### Examples
 * [Jean Yang’s Statement of Purpose for a Ph.D. in Computer Science](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
@@ -116,6 +119,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Another example curated by Soundarya Balasubramaniam -- Original author unknown](https://drive.google.com/file/d/1fSEWcd1vhT6gAqh234T-k7tLHS3CH3wA/view)
 * [Sachin Gururangan's personal research statement](https://drive.google.com/file/d/1vNXiser8NyLwH_sG8GcQ2isT_P5vETOt/view)
 * [Olamide Olaoba's twitter thread on SoP structure](https://twitter.com/olaobamide/status/1444902290087763972)
+
 ### LoRs
 * [How to get a great letter of recommendation](https://matt.might.net/articles/how-to-recommendation-letter/) 
 * [Requesting a letter of recommendation by Michael Ernst (UWash)](https://homes.cs.washington.edu/~mernst/advice/request-recommendation.html)
