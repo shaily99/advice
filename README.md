@@ -4,6 +4,10 @@ A repository of links with advice related to grad school applications, research,
 #### Contributing
 If you come across posts/tweet-threads/blogs/podcasts that belong here, feel free to create a pull request.
 
+Table of Contents
+* [Applications](#applications)
+  * [General](#general)
+
 ## Applications
 
 ### General
