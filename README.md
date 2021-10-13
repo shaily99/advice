@@ -10,7 +10,7 @@ __Table of Contents__
       * [MS Specific](#ms-specific)
       * [Applying to Predoctoral Programs](#applying-to-predoctoral-programs)
       * [ToDo PhD or Not / What doing a PhD Entails](#todo-pdh-or-not--what-doing-a-phd-entails)
-   * [Selecting Schools](#selecting-schools)
+   * [Selecting Schools](#selecting-schools-and-advisors)
    * [Reaching out to prospective advisors](#reaching-out-to-prospective-advisors)
    * [SOP](#sop)
       * [Examples](#examples)
