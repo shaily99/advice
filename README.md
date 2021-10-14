@@ -159,14 +159,15 @@ Most of the links in these lists will appear in the rest of the list otherwise a
 
 ### For grad students
 Helpful for early(or all) stage researchers in general
-* [How  to  Be  a  Successful  PhD  Student by Mark Dredze and Hanna Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf) -- gold written by two prominent people in NLP* [12 resolutions for grad students by Matt Might](https://matt.might.net/articles/grad-student-resolutions/)
+* [How  to  Be  a  Successful  PhD  Student by Mark Dredze and Hanna Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf) -- gold written by two prominent people in NLP
+* [10 Tips for Research and a PhD by Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/) -- Tips to literally LIVE BY!
+* [12 resolutions for grad students by Matt Might](https://matt.might.net/articles/grad-student-resolutions/)
 * [3 qualities of successful Ph.D. students: Perseverance, tenacity and cogency by Matt Might](https://matt.might.net/articles/successful-phd-students/)
 * [10 easy ways to fail a Ph.D. by Matt Might](https://matt.might.net/articles/ways-to-fail-a-phd/) 
 * [How to Succeed in Graduate School: A Guide for Students and Advisors by Marie desJardins](http://web.archive.org/web/20200709192837/https://www.csee.umbc.edu/~mariedj/papers/advice.pdf)
 * [GRADUATE STUDY IN THE COMPUTER AND MATHEMATICAL SCIENCES: A SURVIVAL MANUAL  by Dianne Prost O'Leary ](http://www.cs.umd.edu/~oleary/gradstudy/gradstudy.html) -- Very thorough
 * [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4) -- old but helpful
 * [An Opinionated Guide to ML Research by John Schulman (Scientist at OpenAI)](http://joschu.net/blog/opinionated-guide-ml-research.html)
-* [10 Tips for Research and a PhD by Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
 * [Doing well in your courses by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html) -- also geared towards undergrads. Super helpful!
 * [Advice for early-stage Ph.D. students by Philip Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
 
