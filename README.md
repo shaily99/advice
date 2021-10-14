@@ -25,6 +25,8 @@ __Table of Contents__
    * [For grad students](#for-grad-students)
    * [Research Ideas](#research-ideas)
    * [Writing](#writing)
+      * [Papers](#papers)
+      * [Proposals](#proposals)
    * [Reviewing](#reviewing)
    * [Rebutting](#rebutting)
    * [Reading](#reading)
@@ -167,7 +169,6 @@ Helpful for early(or all) stage researchers in general
 * [10 Tips for Research and a PhD by Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/)
 * [Doing well in your courses by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html) -- also geared towards undergrads. Super helpful!
 * [Advice for early-stage Ph.D. students by Philip Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
-* [How to write research proposals by Sanya Jain](https://twitter.com/sjay_yayy/status/1434554812054392833)
 
 ### Research ideas
 * [How to find innovative ideas for your project](http://llcao.net/cu-deeplearning17/lecture/lecture5_llc.pdf)
@@ -176,6 +177,8 @@ Helpful for early(or all) stage researchers in general
 * [How to make steady progress in my research? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1419880122006519809)
 
 ### Writing
+
+#### Papers
 * [Planning paper writing by Devi Parikh (Prof at Georgia Tech)](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
 * [Write the Paper First by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html) -- On planning and writing
 * [Shortening papers to fit page limits by Devi Parikh](https://deviparikh.medium.com/shortening-papers-to-fit-page-limits-97601318681d)
@@ -185,6 +188,9 @@ Helpful for early(or all) stage researchers in general
 * [How to write a review paper by Sanya Jain](https://twitter.com/sjay_yayy/status/1439288297008762881)
 * [Tps on paper writing by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips/blob/main/paper-writing.md)
 * [Writing Related Work by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips/blob/main/related-work.md)
+
+#### Proposals
+* [How to write research proposals by Sanya Jain](https://twitter.com/sjay_yayy/status/1434554812054392833)
 
 ### Reviewing
 * [Advice on Reviewing for EMNLP](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews) -- very helpful for reviewing for * CL conferences
