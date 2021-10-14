@@ -202,7 +202,7 @@ Helpful for early(or all) stage researchers in general
 * [What do PhD students talk about in their once-a-week meetings with their advisers during their first year? Quora answer by Jason Eisner](https://www.quora.com/What-do-PhD-students-talk-about-in-their-once-a-week-meetings-with-their-advisers-during-their-first-year/answer/Jason-Eisner?share=1)
 * [How to do research with my mentors effectively? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1418407079077842944)
 
-#### Research Internships
+### Research Internships
 * [How to find a research internships? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1438337355031719941)
 
 ### Networking
