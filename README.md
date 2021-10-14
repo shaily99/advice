@@ -28,9 +28,9 @@ __Table of Contents__
    * [Reviewing](#reviewing)
    * [Rebutting](#rebutting)
    * [Reading](#reading)
+      * [Literature Surveying](#literature-surveying)
    * [Publishing and Conferences](#publishing-and-conferences)
       * [Publicising](#publicising)
-   * [Literature Surveying](#literature-surveying)
    * [Advisor-Advisee Dynamics](#advisor-advisee-dynamics)
    * [Research Internships](#research-internships)
    * [Networking](#networking)
@@ -203,16 +203,16 @@ Helpful for early(or all) stage researchers in general
 * [How to Read a Paper by S. Keshav](http://www.sigcomm.org/sites/default/files/ccr/papers/2007/July/1273445-1273458.pdf) -- The three pass approach, very helpful.
 * [Critical Reading by Emily Bender](https://faculty.washington.edu/ebender/critical_reading.pdf)
 
+#### Literature Surveying
+* [6 tips for navigating academic literature as a student by Lucinda Doyle](https://twitter.com/lucindaedoyle/status/1441711539858276357)
+* [Honestly, WTF is a #LiteratureReview? by Adam Grachek](https://twitter.com/AdamGrachek/status/1445320964959571968)
+* [How to keep track with the literature? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1426039195542360070)
+
 ### Publishing and Conferences
 * [Guide for Publishing in Conferences and Attending Them](https://shomir.net/scholarly_publishing.html)
 
 #### Publicising
 * [ideas on how to disseminate your research by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1430003911037947904)
-
-### Literature Surveying
-* [6 tips for navigating academic literature as a student by Lucinda Doyle](https://twitter.com/lucindaedoyle/status/1441711539858276357)
-* [Honestly, WTF is a #LiteratureReview? by Adam Grachek](https://twitter.com/AdamGrachek/status/1445320964959571968)
-* [How to keep track with the literature? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1426039195542360070)
 
 ### Advisor-Advisee Dynamics
 * [The Many Ways of Doing a PhD](http://confluence.ias.ac.in/the-many-ways-of-doing-a-phd/)
