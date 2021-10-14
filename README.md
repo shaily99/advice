@@ -149,7 +149,7 @@ Most of the links in these lists will appear in the rest of the list otherwise a
 * [Matt Might's articles](https://matt.might.net/articles/) -- Lot of good advice for people at every stages.
 * [CMU's page of advice](http://www.cs.cmu.edu/~callan/Students/)
 * [Casey Fiesler's youtube playlist on applying to phd programs](https://www.youtube.com/playlist?list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I)
-* [Sai Siddartha Maram's tweet thread with sources](https://twitter.com/MaramSiddartha/status/1446686616479666176?s=20)
+* [Sai Siddartha Maram's tweet thread with resources](https://twitter.com/MaramSiddartha/status/1446686616479666176?s=20)
 * [Application support programs - tweet thread compiled by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) -- the links may change every year.
 * [Meta-thread on grad-school applications by Sanya Jain](https://twitter.com/sjay_yayy/status/1422562824467861507)
 
