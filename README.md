@@ -24,7 +24,6 @@ __Table of Contents__
 * [Research](#research)
    * [For grad students](#for-grad-students)
    * [Research Ideas](#research-ideas)
-   * [Writing, reviewing, rebutting, reading papers](#writing-reviewing-rebutting-reading-papers)
    * [Writing](#writing)
    * [Reviewing](#reviewing)
    * [Rebutting](#rebutting)
