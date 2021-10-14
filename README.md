@@ -8,7 +8,6 @@ __Table of Contents__
 * [Applications](#applications)
    * [General](#general)
       * [MS Specific](#ms-specific)
-      * [Research Internships](#research-internships)
       * [Applying to Predoctoral Programs](#applying-to-predoctoral-programs)
       * [ToDo PhD or Not / What doing a PhD Entails](#todo-pdh-or-not--what-doing-a-phd-entails)
    * [Selecting Schools](#selecting-schools-and-advisors)
