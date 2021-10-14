@@ -25,6 +25,12 @@ __Table of Contents__
    * [For grad students](#for-grad-students)
    * [Research Ideas](#research-ideas)
    * [Writing, reviewing, rebutting, reading papers](#writing-reviewing-rebutting-reading-papers)
+   * [Writing](#writing)
+   * [Reviewing](#reviewing)
+   * [Rebutting](#rebutting)
+   * [Reading](#reading)
+   * [Publishing and Conferences](#publishing-and-conferences)
+      * [Publicising](#publicising)
    * [Literature Surveying](#literature-surveying)
    * [Advisor-Advisee Dynamics](#advisor-advisee-dynamics)
    * [Research Internships](#research-internships)
@@ -170,7 +176,7 @@ Helpful for early(or all) stage researchers in general
 * [How to come up with research ideas? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1423499757591400448)
 * [How to make steady progress in my research? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1419880122006519809)
 
-### Writing, reviewing, rebutting, reading papers
+### Writing
 * [Planning paper writing by Devi Parikh (Prof at Georgia Tech)](https://deviparikh.medium.com/planning-paper-writing-553f497e8839)
 * [Write the Paper First by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html) -- On planning and writing
 * [Shortening papers to fit page limits by Devi Parikh](https://deviparikh.medium.com/shortening-papers-to-fit-page-limits-97601318681d)
@@ -178,18 +184,31 @@ Helpful for early(or all) stage researchers in general
 * [How to Write a Great Research Paper by Simon Peyton Jones](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)
 * [Guide for Scholarly Writing by Shomir Wilson](https://shomir.net/scholarly_writing.html)
 * [How to write a review paper by Sanya Jain](https://twitter.com/sjay_yayy/status/1439288297008762881)
+* [Tps on paper writing by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips/blob/main/paper-writing.md)
+* [Writing Related Work by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips/blob/main/related-work.md)
+
+### Reviewing
 * [Advice on Reviewing for EMNLP](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews) -- very helpful for reviewing for * CL conferences
 * [What Can We Do to Improve Peer Review in NLP? by Anna Rogers and Isabelle Augenstein](https://aclanthology.org/2020.findings-emnlp.112.pdf)
 * [How to peer review by Matt Might](https://matt.might.net/articles/how-to-peer-review/)
 * [top 10 tips for peer reviewers](https://players.brightcove.net/3806881048001/rFXiCa5uY_default/index.html?videoId=4518165477001)
 * [Neurips 2019 reviewer guidelines](https://nips.cc/Conferences/2019/PaperInformation/ReviewerGuidelines)
+
+### Rebutting
 * [How we write rebuttals by Devi Parikh, Dhruv Batra, Stefan Lee](https://deviparikh.medium.com/how-we-write-rebuttals-dc84742fece1) -- Very good post.
 * [Responding to peer review by Matt Might](https://matt.might.net/articles/peer-review-rebuttals/)
+
+### Reading
 * [How to Read an Engineering Research Paper](https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html)
 * [How to Read a Technical Paper by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 * [How to Read a Paper by S. Keshav](http://www.sigcomm.org/sites/default/files/ccr/papers/2007/July/1273445-1273458.pdf) -- The three pass approach, very helpful.
 * [Critical Reading by Emily Bender](https://faculty.washington.edu/ebender/critical_reading.pdf)
+
+### Publishing and Conferences
 * [Guide for Publishing in Conferences and Attending Them](https://shomir.net/scholarly_publishing.html)
+
+#### Publicising
+* [ideas on how to disseminate your research by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1430003911037947904)
 
 ### Literature Surveying
 * [6 tips for navigating academic literature as a student by Lucinda Doyle](https://twitter.com/lucindaedoyle/status/1441711539858276357)
@@ -212,8 +231,7 @@ Helpful for early(or all) stage researchers in general
 
 ### Talks/Presentations
 * [10 tips for academic talks by Matt Might](https://matt.might.net/articles/academic-presentation-tips/)
-* [Sharing tips on preparing your presentation slides by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1397058827405742085)
-* [Sharing ideas on how to disseminate your research by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1430003911037947904)
+* [tips on preparing your presentation slides by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1397058827405742085)
 
 ### Productivity
 * [Deep Work by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) -- Great book, worth a read
@@ -232,3 +250,4 @@ Helpful for early(or all) stage researchers in general
 * [Kevin Duh's resources on courses, subjects, and research](https://www.cs.jhu.edu/~kevinduh/teaching.html) -- great collection
 * [Resources to Help Global Equality for PhDs in NLP / AI](https://github.com/zhijing-jin/nlp-phd-global-equality)
 * [Shomir Wilson's advoce for students](https://shomir.net/advice_for_students.html)
+* [Jia-Bin Huang's Awesome Tips (twitter threads and more)](https://github.com/jbhuang0604/awesome-tips) -- These tips are just GOLD!
