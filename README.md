@@ -9,7 +9,7 @@ __Table of Contents__
    * [General](#general)
       * [MS Specific](#ms-specific)
       * [Applying to Predoctoral Programs](#applying-to-predoctoral-programs)
-      * [ToDo PhD or Not / What doing a PhD Entails](#todo-pdh-or-not--what-doing-a-phd-entails)
+      * [ToDo PhD or Not / What doing a PhD Entails](#todo-phd-or-not--what-doing-a-phd-entails)
    * [Selecting Schools](#selecting-schools-and-advisors)
       * [After getting admits](#after-getting-admits)
    * [Reaching out to prospective advisors](#reaching-out-to-prospective-advisors)
