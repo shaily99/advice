@@ -11,20 +11,24 @@ __Table of Contents__
       * [Research Internships](#research-internships)
       * [Applying to Predoctoral Programs](#applying-to-predoctoral-programs)
       * [ToDo PhD or Not / What doing a PhD Entails](#todo-pdh-or-not--what-doing-a-phd-entails)
-      * [Misc](#misc)
    * [Selecting Schools](#selecting-schools-and-advisors)
+      * [After getting admits](#after-getting-admits)
    * [Reaching out to prospective advisors](#reaching-out-to-prospective-advisors)
    * [SOP](#sop)
       * [Examples](#examples)
    * [LoRs](#lors)
    * [CV](#cv)
       * [Examples](#examples-1)
+   * [Interview preparation](#interview-preparation)
+   * [Misc](#misc)
    * [List of Lists](#list-of-lists)
 * [Research](#research)
    * [For grad students](#for-grad-students)
    * [Research Ideas](#research-ideas)
    * [Writing, reviewing, rebutting, reading papers](#writing-reviewing-rebutting-reading-papers)
+   * [Literature Surveying](#literature-surveying)
    * [Advisor-Advisee Dynamics](#advisor-advisee-dynamics)
+   * [Research Internships](#research-internships)
    * [Networking](#networking)
    * [Talks/Presentations](#talkspresentation)
    * [Productivity](#productivity)
@@ -49,13 +53,9 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Has your graduate school application been rejected? by Sanya Jain](https://twitter.com/sjay_yayy/status/1445730289112653824)
 * [Pointers on grad school applications by Khimya](https://twitter.com/khimya/status/1308257695670120448)
 * [Reflecting on CS Graduate Admissions by David Anderson](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
-* [Interview Preparation Tips by Sanya Jain](https://twitter.com/sjay_yayy/status/1436395651047198723)
 
 #### MS Specific
 * [Demystification of the Graduate Admissions Process by Karthik Raghunathan (MS from stanford, now director of ML at Cisco)](https://nlp.stanford.edu/~rkarthik/DAGAP.pdf)
-
-#### Research Internships
-* [How to find a research internships? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1438337355031719941)
 
 #### Applying to Predoctoral programs
 * [Demystifying the “Pre-Doctoral Researcher” role at Google Research, India by Shaily Bhatt (that's me)](https://shaily99.medium.com/demystifying-the-pre-doctoral-researcher-role-at-google-research-india-c063e5c73f10) -- I wrote this blog detailing my experience applying to the 'pre' doctoral program at Google. The advice is generally applicable for most predotoral/RA roles
@@ -67,17 +67,16 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Is it worth it to go to grad school in computational linguistics? by Emily Bender](https://medium.com/@emilymenonbender/is-it-worth-it-to-go-to-grad-school-in-computational-linguistics-7234f0bd4981)
 * [Rabbit's Ph.D. Thesis and Lion's Watch Repair Business by Margaret Fleck](https://www.cs.hmc.edu/~fleck/parable.html)
 
-#### Misc
-* [A thread on how to strengthen your chances of admission if you have zero or few publications by Sanya Jain](https://twitter.com/sjay_yayy/status/1427669012800888938)
-
 ### Selecting Schools and Advisors
 * [A Vlog on using CSRankings to find CS PhD programs by Philip Guo](https://www.youtube.com/watch?v=z6TkkdlRWcU) -- Don't blindly go by rankings, but don't ignore them either.
 * [How to pick a grad school for a PhD in Computer Science by Vijay Chidambaram](https://vijayc.medium.com/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246)
 * [How to Pick Your Grad School by Tim Dettmers](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/)
 * [University Rankings for PhD Applications by Danish Pruthi and Mansi Gupta](https://latentfactors.blog/2020/12/06/university-rankings-for-phd-applications/)
-* [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov (HCII,CMU)](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
 * [How to Pick a Graduate Advisor](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)
 * [How to short list professors for your PhD/ Master’s? by Sanya Jain](https://twitter.com/sjay_yayy/status/1443969538631012355)
+
+#### After getting admits
+* [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov (HCII,CMU)](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
 
 ### Reaching out to prospective advisors
 * [Tweet thread for a template to emailing prospective advisors by Casey Fiesler](https://twitter.com/cfiesler/status/1301907707579031555?s=20)
@@ -104,6 +103,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [MIT EECS's advice on Graduate School Personal Statement](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 * [How to write an effective Statement of Purpose? by Sanya Jain](https://twitter.com/sjay_yayy/status/1429804578665467907)
 * [Structure is Magic: A Guide to the Graduate SOP](https://writeivy.com/structure-is-magic-a-guide-to-the-graduate-sop/)
+* [Olamide Olaoba's twitter thread on SoP structure](https://twitter.com/olaobamide/status/1444902290087763972)
 
 #### Examples
 * [Jean Yang’s Statement of Purpose for a Ph.D. in Computer Science](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
@@ -115,7 +115,6 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [An example curated by Soundarya Balasubramaniam -- Original author unknown](https://drive.google.com/file/d/1Jq3eNS8s3QD6Y6fw0H0FiI_iDUa_uqmS/view)
 * [Another example curated by Soundarya Balasubramaniam -- Original author unknown](https://drive.google.com/file/d/1fSEWcd1vhT6gAqh234T-k7tLHS3CH3wA/view)
 * [Sachin Gururangan's personal research statement](https://drive.google.com/file/d/1vNXiser8NyLwH_sG8GcQ2isT_P5vETOt/view)
-* [Olamide Olaoba's twitter thread on SoP structure](https://twitter.com/olaobamide/status/1444902290087763972)
 
 ### LoRs
 * [How to get a great letter of recommendation](https://matt.might.net/articles/how-to-recommendation-letter/) 
@@ -132,6 +131,12 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 
 #### Examples
 * [Jean Yang's Resume for CS PhD applications](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/jean_yang_resume.pdf)
+
+### Interview preparation
+* [Interview Preparation Tips by Sanya Jain](https://twitter.com/sjay_yayy/status/1436395651047198723)
+
+### Misc
+* [A thread on how to strengthen your chances of admission if you have zero or few publications by Sanya Jain](https://twitter.com/sjay_yayy/status/1427669012800888938)
 
 ### List of lists
 Most of the links in these lists will appear in the rest of the list otherwise anyway.
@@ -173,6 +178,7 @@ Helpful for early(or all) stage researchers in general
 * [De-Mystifying Good Research and Good Papers (repost) by Fei-Fei Li (Prof at Stanford)](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 * [How to Write a Great Research Paper by Simon Peyton Jones](https://www.microsoft.com/en-us/research/video/how-to-write-a-great-research-paper-3/)
 * [Guide for Scholarly Writing by Shomir Wilson](https://shomir.net/scholarly_writing.html)
+* [How to write a review paper by Sanya Jain](https://twitter.com/sjay_yayy/status/1439288297008762881)
 * [Advice on Reviewing for EMNLP](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews) -- very helpful for reviewing for * CL conferences
 * [What Can We Do to Improve Peer Review in NLP? by Anna Rogers and Isabelle Augenstein](https://aclanthology.org/2020.findings-emnlp.112.pdf)
 * [How to peer review by Matt Might](https://matt.might.net/articles/how-to-peer-review/)
@@ -185,18 +191,20 @@ Helpful for early(or all) stage researchers in general
 * [How to Read a Paper by S. Keshav](http://www.sigcomm.org/sites/default/files/ccr/papers/2007/July/1273445-1273458.pdf) -- The three pass approach, very helpful.
 * [Critical Reading by Emily Bender](https://faculty.washington.edu/ebender/critical_reading.pdf)
 * [Guide for Publishing in Conferences and Attending Them](https://shomir.net/scholarly_publishing.html)
-* [How to keep track with the literature? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1426039195542360070)
-* [How to write a review paper by Sanya Jain](https://twitter.com/sjay_yayy/status/1439288297008762881)
 
 ### Literature Surveying
 * [6 tips for navigating academic literature as a student by Lucinda Doyle](https://twitter.com/lucindaedoyle/status/1441711539858276357)
 * [Honestly, WTF is a #LiteratureReview? by Adam Grachek](https://twitter.com/AdamGrachek/status/1445320964959571968)
+* [How to keep track with the literature? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1426039195542360070)
 
 ### Advisor-Advisee Dynamics
 * [The Many Ways of Doing a PhD](http://confluence.ias.ac.in/the-many-ways-of-doing-a-phd/)
 * [Guide to Meetings with Your Advisor](https://www.brown.edu/academics/gradschool/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-resources-students/guide-m)
 * [What do PhD students talk about in their once-a-week meetings with their advisers during their first year? Quora answer by Jason Eisner](https://www.quora.com/What-do-PhD-students-talk-about-in-their-once-a-week-meetings-with-their-advisers-during-their-first-year/answer/Jason-Eisner?share=1)
 * [How to do research with my mentors effectively? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1418407079077842944)
+
+#### Research Internships
+* [How to find a research internships? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1438337355031719941)
 
 ### Networking
 * [Guide for Interacting With Faculty](https://shomir.net/teaching_faq.html) --especially for undergrads, new grads, and international students
