@@ -72,6 +72,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Advice for Undergraduates Considering Graduate School](https://pages.gseis.ucla.edu/faculty/agre/grad-school.html)
 * [Is it worth it to go to grad school in computational linguistics? by Emily Bender](https://medium.com/@emilymenonbender/is-it-worth-it-to-go-to-grad-school-in-computational-linguistics-7234f0bd4981)
 * [Rabbit's Ph.D. Thesis and Lion's Watch Repair Business by Margaret Fleck](https://www.cs.hmc.edu/~fleck/parable.html)
+* [Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later By Roland Azuma](https://ronaldazuma.com/hitch4.html)
 
 ### Selecting Schools and Advisors
 * [A Vlog on using CSRankings to find CS PhD programs by Philip Guo](https://www.youtube.com/watch?v=z6TkkdlRWcU) -- Don't blindly go by rankings, but don't ignore them either.
@@ -123,7 +124,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Sachin Gururangan's personal research statement](https://drive.google.com/file/d/1vNXiser8NyLwH_sG8GcQ2isT_P5vETOt/view)
 
 ### LoRs
-* [How to get a great letter of recommendation](https://matt.might.net/articles/how-to-recommendation-letter/) 
+* [How to get a great letter of recommendation](https://matt.might.net/articles/how-to-recommendation-letter/)
 * [Requesting a letter of recommendation by Michael Ernst (UWash)](https://homes.cs.washington.edu/~mernst/advice/request-recommendation.html)
 * [Advice to Graduate School Recommendation Letter Writers by Shriram Krishnamurthi](http://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
 * [How to write a letter of recommendation by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html)
@@ -147,7 +148,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 ### List of lists
 Most of the links in these lists will appear in the rest of the list otherwise anyway.
 
-* [Kalpesh Krishna's post on an extensive list of useful grad school resoruces](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html) 
+* [Kalpesh Krishna's post on an extensive list of useful grad school resoruces](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)
 * [Matt Might's articles](https://matt.might.net/articles/) -- Lot of good advice for people at every stages.
 * [CMU's page of advice](http://www.cs.cmu.edu/~callan/Students/)
 * [Casey Fiesler's youtube playlist on applying to phd programs](https://www.youtube.com/playlist?list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I)
@@ -163,7 +164,7 @@ Helpful for early(or all) stage researchers in general
 * [10 Tips for Research and a PhD by Sebastian Ruder](https://ruder.io/10-tips-for-research-and-a-phd/) -- Tips to literally LIVE BY!
 * [12 resolutions for grad students by Matt Might](https://matt.might.net/articles/grad-student-resolutions/)
 * [3 qualities of successful Ph.D. students: Perseverance, tenacity and cogency by Matt Might](https://matt.might.net/articles/successful-phd-students/)
-* [10 easy ways to fail a Ph.D. by Matt Might](https://matt.might.net/articles/ways-to-fail-a-phd/) 
+* [10 easy ways to fail a Ph.D. by Matt Might](https://matt.might.net/articles/ways-to-fail-a-phd/)
 * [How to Succeed in Graduate School: A Guide for Students and Advisors by Marie desJardins](http://web.archive.org/web/20200709192837/https://www.csee.umbc.edu/~mariedj/papers/advice.pdf)
 * [GRADUATE STUDY IN THE COMPUTER AND MATHEMATICAL SCIENCES: A SURVIVAL MANUAL  by Dianne Prost O'Leary ](http://www.cs.umd.edu/~oleary/gradstudy/gradstudy.html) -- Very thorough
 * [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4) -- old but helpful
