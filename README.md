@@ -158,6 +158,9 @@ Most of the links in these lists will appear in the rest of the list otherwise a
 
 ## Research
 
+### General
+* [AI research: the unreasonably narrow path and how not to be miserable](https://www.youtube.com/watch?v=0blQp0_9NwY)
+
 ### For grad students
 Helpful for early(or all) stage researchers in general
 * [How  to  Be  a  Successful  PhD  Student by Mark Dredze and Hanna Wallach](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf) -- gold written by two prominent people in NLP
