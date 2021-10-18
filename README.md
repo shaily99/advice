@@ -255,5 +255,5 @@ Helpful for early(or all) stage researchers in general
 * [Jason Eisner's Advice for Research Students](https://www.cs.jhu.edu/~jason/advice/)
 * [Kevin Duh's resources on courses, subjects, and research](https://www.cs.jhu.edu/~kevinduh/teaching.html) -- great collection
 * [Resources to Help Global Equality for PhDs in NLP / AI](https://github.com/zhijing-jin/nlp-phd-global-equality)
-* [Shomir Wilson's advoce for students](https://shomir.net/advice_for_students.html)
+* [Shomir Wilson's advice for students](https://shomir.net/advice_for_students.html)
 * [Jia-Bin Huang's Awesome Tips (twitter threads and more)](https://github.com/jbhuang0604/awesome-tips) -- These tips are just GOLD!
