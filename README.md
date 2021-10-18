@@ -22,6 +22,7 @@ __Table of Contents__
    * [Misc](#misc)
    * [List of Lists](#list-of-lists)
 * [Research](#research)
+   * [General](#general-1)
    * [For grad students](#for-grad-students)
    * [Research Ideas](#research-ideas)
    * [Writing](#writing)
