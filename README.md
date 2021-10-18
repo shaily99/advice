@@ -160,7 +160,7 @@ Most of the links in these lists will appear in the rest of the list otherwise a
 ## Research
 
 ### General
-* [AI research: the unreasonably narrow path and how not to be miserable](https://www.youtube.com/watch?v=0blQp0_9NwY)
+* [AI research: the unreasonably narrow path and how not to be miserable an invited talk Rosanne Liu gave at Google in October 2020](https://www.youtube.com/watch?v=0blQp0_9NwY)
 
 ### For grad students
 Helpful for early(or all) stage researchers in general
