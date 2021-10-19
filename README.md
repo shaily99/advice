@@ -96,6 +96,11 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Writing Cold Emails by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1420611683035324425)
 * [Twitter thread on writing cold-emails by Sanya Jain](https://twitter.com/sjay_yayy/status/1418978638494519297)
 * Threads on cold-mailing by Sanya Jain: [No Response](https://twitter.com/sjay_yayy/status/1431654767739035653) [Positive Response](https://twitter.com/sjay_yayy/status/1436031455474294786)
+* [Hammed A. Akande](https://twitter.com/drhammed/status/1290287965625659393) - Managed to get the professor Interested for a Skype call. Tips for the Call
+* [Oludayo Sokunbi](https://twitter.com/Oludeewon/status/1284873001884954624?s=20) - Tips for Contacting Professor through mail
+* [Hameed A. Akande](https://twitter.com/drhammed/status/1288092522527494144?s=20) - Not getting Responses from Profesor. Here is what you need to recheck
+* [David Evans](https://www.cs.virginia.edu/~evans/advice/prospective.html) - Gold Tips from Writing the first mail to professor and what to include/not include in mail
+
 
 ### SOP
 * [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider (Prof at Georgetown University)](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80) -- A Prof's perspective, really helpful.
@@ -142,6 +147,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 
 ### Interview preparation
 * [Interview Preparation Tips by Sanya Jain](https://twitter.com/sjay_yayy/status/1436395651047198723)
+* [Yash Kumar Singhal Fall 2022 Interview Expierence](https://github.com/yashgyy/Phd-Fall-2022/blob/main/README.md) 
 
 ### Misc
 * [A thread on how to strengthen your chances of admission if you have zero or few publications by Sanya Jain](https://twitter.com/sjay_yayy/status/1427669012800888938)
@@ -181,6 +187,8 @@ Helpful for early(or all) stage researchers in general
 * How to choose an NLP research project? [Talk](https://www.youtube.com/watch?v=jFWF0PX4Pcs) and [summary blog post](https://medium.com/@zhijing-jin/how-to-choose-an-nlp-research-project-58cb9bb5513e) -- Insights from the 1st ACL Year-Round Mentorship Session on September 9, 2021. Panelists: Rada Mihalcea (Professor at University of Michigan, @radamihalcea), Saif M. Mohammad (Senior Research Scientist at National Research Council Canada, @saifmmohammad), Soujanya Poria (Assistant Professor at Singapore University of Technology and Design, @soujanyaporia). Notetakers: Zhijing Jin (@ZhijingJin), Janet Liu (@janetlauyeung)
 * [How to come up with research ideas? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1423499757591400448)
 * [How to make steady progress in my research? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1419880122006519809)
+
+
 
 ### Writing
 
@@ -262,3 +270,5 @@ Helpful for early(or all) stage researchers in general
 * [Resources to Help Global Equality for PhDs in NLP / AI](https://github.com/zhijing-jin/nlp-phd-global-equality)
 * [Shomir Wilson's advice for students](https://shomir.net/advice_for_students.html)
 * [Jia-Bin Huang's Awesome Tips (twitter threads and more)](https://github.com/jbhuang0604/awesome-tips) -- These tips are just GOLD!
+
+
