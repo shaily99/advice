@@ -87,6 +87,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov (HCII,CMU)](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
 
 ### Reaching out to prospective advisors
+This might be helpful for cold emailing advisors for internships and prospective collaborators even outside of the PhD application process.
 * [Tweet thread for a template to emailing prospective advisors by Casey Fiesler](https://twitter.com/cfiesler/status/1301907707579031555?s=20)
 * [Contacting Potential PhD Advisors / Supervisors by Casey Fiesler](https://www.youtube.com/watch?v=XPM22bWTjRk&list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I&index=9)
 * [A note on cold-mailing professors by Yontan Bisk](https://yonatanbisk.com/emailing_professors.html)
@@ -96,11 +97,10 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Writing Cold Emails by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1420611683035324425)
 * [Twitter thread on writing cold-emails by Sanya Jain](https://twitter.com/sjay_yayy/status/1418978638494519297)
 * Threads on cold-mailing by Sanya Jain: [No Response](https://twitter.com/sjay_yayy/status/1431654767739035653) [Positive Response](https://twitter.com/sjay_yayy/status/1436031455474294786)
-* [Hammed A. Akande](https://twitter.com/drhammed/status/1290287965625659393) - Managed to get the professor Interested for a Skype call. Tips for the Call
-* [Oludayo Sokunbi](https://twitter.com/Oludeewon/status/1284873001884954624?s=20) - Tips for Contacting Professor through mail
-* [Hameed A. Akande](https://twitter.com/drhammed/status/1288092522527494144?s=20) - Not getting Responses from Profesor. Here is what you need to recheck
-* [David Evans](https://www.cs.virginia.edu/~evans/advice/prospective.html) - Gold Tips from Writing the first mail to professor and what to include/not include in mail
-
+* [Managed to get the professor Interested for a Skype call. Tips for the Call thread by Hammed A. Akande](https://twitter.com/drhammed/status/1290287965625659393)
+* [Tips for Contacting Professor through mail. Thread by Oludayo Sokunbi](https://twitter.com/Oludeewon/status/1284873001884954624?s=20)
+* [Not getting Responses from Profesor. Here is what you need to recheck by Hameed A. Akande](https://twitter.com/drhammed/status/1288092522527494144?s=20)
+* [Gold Tips from Writing the first mail to professor and what to include/not include in mail by David Evans](https://www.cs.virginia.edu/~evans/advice/prospective.html)
 
 ### SOP
 * [Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider (Prof at Georgetown University)](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80) -- A Prof's perspective, really helpful.
@@ -188,8 +188,6 @@ Helpful for early(or all) stage researchers in general
 * [How to come up with research ideas? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1423499757591400448)
 * [How to make steady progress in my research? by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1419880122006519809)
 
-
-
 ### Writing
 
 #### Papers
@@ -270,5 +268,3 @@ Helpful for early(or all) stage researchers in general
 * [Resources to Help Global Equality for PhDs in NLP / AI](https://github.com/zhijing-jin/nlp-phd-global-equality)
 * [Shomir Wilson's advice for students](https://shomir.net/advice_for_students.html)
 * [Jia-Bin Huang's Awesome Tips (twitter threads and more)](https://github.com/jbhuang0604/awesome-tips) -- These tips are just GOLD!
-
-
