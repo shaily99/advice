@@ -46,9 +46,7 @@ __Table of Contents__
 Note: A lot of the advice might be geared towards PhD, but people applying to MS programs, RAs, short-term interns etc. might find a lot of it still very helpful.
 
 ### General
-* AI2 NLP Highlights Podcasts: PHD Application Series - 
-      * [Preparing Aplication Materials](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel)
-      * [PhDs in Europe v/s US](https://soundcloud.com/nlp-highlights/134-phd-application-series-phds-in-europe-versus-the-us)
+* AI2 NLP Highlights Podcasts: PHD Application Series - [Preparing Aplication Materials](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel), [PhDs in Europe v/s US](https://soundcloud.com/nlp-highlights/134-phd-application-series-phds-in-europe-versus-the-us)
 * [Student Perspectives on Applying to NLP PhD Programs](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) -- MUST READ
 * [Himabindu Lakkaraju and Aditya Grover’s Panel](https://www.youtube.com/watch?v=z6TkkdlRWcU) -- Must watch, great insights from the panel.
 * [PhD Application FAQs by Noah Smith (Faculty at UWash)](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit)
