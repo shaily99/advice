@@ -40,6 +40,7 @@ __Table of Contents__
    * [Networking](#networking)
    * [Talks/Presentations](#talkspresentation)
    * [Productivity](#productivity)
+   * [Tools](#tools)
    * [Impostor's Syndrome](#impostors-syndrome)
    * [Misc](#misc-1)
    * [List of lists](#list-of-lists-1)
@@ -84,6 +85,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [University Rankings for PhD Applications by Danish Pruthi and Mansi Gupta](https://latentfactors.blog/2020/12/06/university-rankings-for-phd-applications/)
 * [How to Pick a Graduate Advisor](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)
 * [How to short list professors for your PhD/ Master’s? by Sanya Jain](https://twitter.com/sjay_yayy/status/1443969538631012355)
+* [Choosing a graduate adviser by by Jen Heemstra, special to C&EN](https://cen.acs.org/careers/graduate-school/Choosing-graduate-adviser/99/i33)
 
 #### After getting admits
 * [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov (HCII,CMU)](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
@@ -154,6 +156,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 ### Misc
 * [A thread on how to strengthen your chances of admission if you have zero or few publications by Sanya Jain](https://twitter.com/sjay_yayy/status/1427669012800888938)
 * [A thread on coming up with research questions for SOP, cold mails by Sanya Jain](https://twitter.com/sjay_yayy/status/1449353152529002502?s=20)
+* [9 MISTAKES to avoid while applying for graduate programs thread by Sanya Jain](https://twitter.com/sjay_yayy/status/1431258774870757380)
 
 ### Helpful tools/resources
 * [CS Rankings](csrankings.org)
@@ -210,6 +213,7 @@ Helpful for early(or all) stage researchers in general
 * [Tps on paper writing by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips/blob/main/paper-writing.md)
 * [Writing Related Work by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips/blob/main/related-work.md)
 * [Animesh Garg's technical writing tips](https://twitter.com/animesh_garg/status/1394294886073913353?s=20)
+* [How to write CHI papers -- A Podcast](https://anchor.fm/how-to-write-chi-papers/)
 
 #### Proposals
 * [How to write research proposals by Sanya Jain](https://twitter.com/sjay_yayy/status/1434554812054392833)
@@ -269,6 +273,9 @@ Helpful for early(or all) stage researchers in general
 ### Impostor's syndrome
 * [Googlers talking about Impostor's syndrome](https://www.youtube.com/watch?v=pIvWpLgNWPA&t=6s) -- Very very good
 
+### Tools
+* [A short introduction to LaTeX and Overleaf by Jeremy Howard](https://www.youtube.com/watch?v=dkojsBJ-S-g)
+
 ### Misc
 * [(FUN) Humans of AI: Stories, Not Stats by Devi Parikh and Dhruv Batra](https://www.humanstories.ai/) -- Prof Devi Parikh and Prof Dhruv Batra talk to various researchers in AI about their lives in and out of work. Worth listening if trying to unwind :)
 
@@ -281,3 +288,4 @@ Helpful for early(or all) stage researchers in general
 * [Resources to Help Global Equality for PhDs in NLP / AI](https://github.com/zhijing-jin/nlp-phd-global-equality)
 * [Shomir Wilson's advice for students](https://shomir.net/advice_for_students.html)
 * [Jia-Bin Huang's Awesome Tips (twitter threads and more)](https://github.com/jbhuang0604/awesome-tips) -- These tips are just GOLD!
+* [7 Essential Books for Graduate and Ph.D. Students](https://stevie-chancellor.medium.com/7-essential-books-for-graduate-and-phd-students-7843dc01b397)
