@@ -152,6 +152,11 @@ This might be helpful for cold emailing advisors for internships and prospective
 ### Misc
 * [A thread on how to strengthen your chances of admission if you have zero or few publications by Sanya Jain](https://twitter.com/sjay_yayy/status/1427669012800888938)
 
+### Helpful tools/resources
+* [CS Rankings](csrankings.org)
+* [CS/HCI PhD Opportunity Tracker (2022)](http://www.andrewkuz.net/hci-opportunities-2022.html) -- This is a tweet tracker for recruitment tweets by profs, it may change every year.
+* [Application support programs - tweet thread compiled by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) -- the links may change every year. Application support programs are usually very very helpful, and typically you can use them even if you apply to MS.
+
 ### List of lists
 Most of the links in these lists will appear in the rest of the list otherwise anyway.
 
@@ -160,7 +165,6 @@ Most of the links in these lists will appear in the rest of the list otherwise a
 * [CMU's page of advice](http://www.cs.cmu.edu/~callan/Students/)
 * [Casey Fiesler's youtube playlist on applying to phd programs](https://www.youtube.com/playlist?list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I)
 * [Sai Siddartha Maram's tweet thread with resources](https://twitter.com/MaramSiddartha/status/1446686616479666176?s=20)
-* [Application support programs - tweet thread compiled by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) -- the links may change every year.
 * [Meta-thread on grad-school applications by Sanya Jain](https://twitter.com/sjay_yayy/status/1422562824467861507)
 
 ## Research
