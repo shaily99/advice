@@ -278,6 +278,7 @@ Helpful for early(or all) stage researchers in general
 
 ### Misc
 * [(FUN) Humans of AI: Stories, Not Stats by Devi Parikh and Dhruv Batra](https://www.humanstories.ai/) -- Prof Devi Parikh and Prof Dhruv Batra talk to various researchers in AI about their lives in and out of work. Worth listening if trying to unwind :)
+* [How to avoid machine learning pitfalls: a guide for academic researchers by Michael A. Lones](https://papers.labml.ai/paper/2108.02497)
 
 ### List of Lists
 * [Matt Might's articles](https://matt.might.net/articles/) -- Lot of advice for people at every stages. Resolutions for grad students is a must read.
