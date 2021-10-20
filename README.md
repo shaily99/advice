@@ -20,6 +20,7 @@ __Table of Contents__
       * [Examples](#examples-1)
    * [Interview preparation](#interview-preparation)
    * [Misc](#misc)
+   * [Resources](#resources)
    * [List of Lists](#list-of-lists)
 * [Research](#research)
    * [General](#general-1)
@@ -40,6 +41,7 @@ __Table of Contents__
    * [Talks/Presentations](#talkspresentation)
    * [Productivity](#productivity)
    * [Impostor's Syndrome](#impostors-syndrome)
+   * [Misc](#misc-1)
    * [List of lists](#list-of-lists-1)
 
 ## Applications
