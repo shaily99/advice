@@ -151,11 +151,13 @@ This might be helpful for cold emailing advisors for internships and prospective
 
 ### Misc
 * [A thread on how to strengthen your chances of admission if you have zero or few publications by Sanya Jain](https://twitter.com/sjay_yayy/status/1427669012800888938)
+* [A thread on coming up with research questions for SOP, cold mails by Sanya Jain](https://twitter.com/sjay_yayy/status/1449353152529002502?s=20)
 
 ### Helpful tools/resources
 * [CS Rankings](csrankings.org)
 * [CS/HCI PhD Opportunity Tracker (2022)](http://www.andrewkuz.net/hci-opportunities-2022.html) -- This is a tweet tracker for recruitment tweets by profs, it may change every year.
 * [Application support programs - tweet thread compiled by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) -- the links may change every year. Application support programs are usually very very helpful, and typically you can use them even if you apply to MS.
+* [CS Ph-D recruiting networking event 2021](https://phd-recruiting.com/) -- has been happening from two years.
 
 ### List of lists
 Most of the links in these lists will appear in the rest of the list otherwise anyway.
@@ -165,7 +167,7 @@ Most of the links in these lists will appear in the rest of the list otherwise a
 * [CMU's page of advice](http://www.cs.cmu.edu/~callan/Students/)
 * [Casey Fiesler's youtube playlist on applying to phd programs](https://www.youtube.com/playlist?list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I)
 * [Sai Siddartha Maram's tweet thread with resources](https://twitter.com/MaramSiddartha/status/1446686616479666176?s=20)
-* [Meta-thread on grad-school applications by Sanya Jain](https://twitter.com/sjay_yayy/status/1422562824467861507)
+* [Meta-thread on grad-school applications by Sanya Jain](https://twitter.com/sjay_yayy/status/1422562824467861507) -- Follow Sanya Jain on Twitter she posts good stuff regularly.
 
 ## Research
 
@@ -185,6 +187,7 @@ Helpful for early(or all) stage researchers in general
 * [An Opinionated Guide to ML Research by John Schulman (Scientist at OpenAI)](http://joschu.net/blog/opinionated-guide-ml-research.html)
 * [Doing well in your courses by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html) -- also geared towards undergrads. Super helpful!
 * [Advice for early-stage Ph.D. students by Philip Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
+* [Grad School: A Brief Survival Guide by Igor Gilitschenski](https://drive.google.com/file/d/1VHKTa-AQSQhXe1jw9XFysuA0lAUl58Pk/view)
 
 ### Research ideas
 * [How to find innovative ideas for your project](http://llcao.net/cu-deeplearning17/lecture/lecture5_llc.pdf)
@@ -204,6 +207,7 @@ Helpful for early(or all) stage researchers in general
 * [How to write a review paper by Sanya Jain](https://twitter.com/sjay_yayy/status/1439288297008762881)
 * [Tps on paper writing by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips/blob/main/paper-writing.md)
 * [Writing Related Work by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-tips/blob/main/related-work.md)
+* [Animesh Garg's technical writing tips](https://twitter.com/animesh_garg/status/1394294886073913353?s=20)
 
 #### Proposals
 * [How to write research proposals by Sanya Jain](https://twitter.com/sjay_yayy/status/1434554812054392833)
@@ -262,6 +266,9 @@ Helpful for early(or all) stage researchers in general
 
 ### Impostor's syndrome
 * [Googlers talking about Impostor's syndrome](https://www.youtube.com/watch?v=pIvWpLgNWPA&t=6s) -- Very very good
+
+### Misc
+* [(FUN) Humans of AI: Stories, Not Stats by Devi Parikh and Dhruv Batra](https://www.humanstories.ai/) -- Prof Devi Parikh and Prof Dhruv Batra talk to various researchers in AI about their lives in and out of work. Worth listening if trying to unwind :)
 
 ### List of Lists
 * [Matt Might's articles](https://matt.might.net/articles/) -- Lot of advice for people at every stages. Resolutions for grad students is a must read.
