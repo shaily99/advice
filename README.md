@@ -63,6 +63,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Has your graduate school application been rejected? by Sanya Jain](https://twitter.com/sjay_yayy/status/1445730289112653824)
 * [Pointers on grad school applications by Khimya](https://twitter.com/khimya/status/1308257695670120448)
 * [Reflecting on CS Graduate Admissions by David Anderson](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
+* [Applying to Ph.D. Programs in Computer Science by Mor Harchol-Balter, CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
 #### MS Specific
 * [Demystification of the Graduate Admissions Process by Karthik Raghunathan (MS from stanford, now director of ML at Cisco)](https://nlp.stanford.edu/~rkarthik/DAGAP.pdf)
@@ -121,6 +122,9 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [How to write an effective Statement of Purpose? by Sanya Jain](https://twitter.com/sjay_yayy/status/1429804578665467907)
 * [Structure is Magic: A Guide to the Graduate SOP](https://writeivy.com/structure-is-magic-a-guide-to-the-graduate-sop/)
 * [Olamide Olaoba's twitter thread on SoP structure](https://twitter.com/olaobamide/status/1444902290087763972)
+* [Erica Weng's Tips and Tricks](https://docs.google.com/document/d/18ToRGeKL_B1IR1V20Jr3ODNDru5G3AfKatq2K75M260)
+* [Thread on ending your SoP with a Bang by Sanya Jain](https://twitter.com/sjay_yayy/status/1458130990904139785?s=20)
+* [Thread on learning from reviewing SoPs by Swapneel Mehta](https://twitter.com/swapneel_mehta/status/1458205557991563264?s=20)
 
 #### Examples
 * [Jean Yang’s Statement of Purpose for a Ph.D. in Computer Science](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
