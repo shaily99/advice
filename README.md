@@ -228,6 +228,7 @@ Helpful for early(or all) stage researchers in general
 
 ### Reviewing
 * [Advice on Reviewing for EMNLP](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews) -- very helpful for reviewing for * CL conferences
+* [How to review for ACL Rolling Review -- a tutorial by Anna Rogers, Isabelle Augenstein](https://aclrollingreview.org/reviewertutorial) -- ACL community folks please read to avoid being reviewer 2 :)
 * [What Can We Do to Improve Peer Review in NLP? by Anna Rogers and Isabelle Augenstein](https://aclanthology.org/2020.findings-emnlp.112.pdf)
 * [How to peer review by Matt Might](https://matt.might.net/articles/how-to-peer-review/)
 * [top 10 tips for peer reviewers](https://players.brightcove.net/3806881048001/rFXiCa5uY_default/index.html?videoId=4518165477001)
