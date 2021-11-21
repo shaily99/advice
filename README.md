@@ -112,6 +112,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [How to Write a Statement of Purpose for Grad School by Swapneel Mehta(PhD student at NYU](https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school) -- One of my personal favourites. Also contains example and other links. MUST READ.
 * [How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application by Andy Pavlov (Prof at CMU)](http://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html) -- MUST READ
 * [How to write a (Good) SOP by Saksham Consul (MS at STanford)](https://docs.google.com/document/d/1Y4Jcsnu5K7tHFh7o19WcLteH1wBtId7lGayizn2OfqA/edit?usp=sharing) -- This post was written by a college senior and is very comprehensive.
+* [Erica Weng's Tips and Tricks](https://docs.google.com/document/d/18ToRGeKL_B1IR1V20Jr3ODNDru5G3AfKatq2K75M260) -- absolute gold
 * [Advice On Grad School Applications by Luis Van Blog](http://vonahn.blogspot.com/2009/12/advice-on-grad-school-applications.html) -- Crisp and quick
 * [ Christopher W. Fletcher's guide to Personal statements with examples of his own SOP](http://cwfletcher.net/Pages/SoP.php)
 * [Vijay Chidambaram's tweet thread on what to avoid while writing SOP (especially for international students)](https://twitter.com/vj_chidambaram/status/933388419589459969?s=20)
@@ -122,7 +123,6 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [How to write an effective Statement of Purpose? by Sanya Jain](https://twitter.com/sjay_yayy/status/1429804578665467907)
 * [Structure is Magic: A Guide to the Graduate SOP](https://writeivy.com/structure-is-magic-a-guide-to-the-graduate-sop/)
 * [Olamide Olaoba's twitter thread on SoP structure](https://twitter.com/olaobamide/status/1444902290087763972)
-* [Erica Weng's Tips and Tricks](https://docs.google.com/document/d/18ToRGeKL_B1IR1V20Jr3ODNDru5G3AfKatq2K75M260)
 * [Thread on ending your SoP with a Bang by Sanya Jain](https://twitter.com/sjay_yayy/status/1458130990904139785?s=20)
 * [Thread on learning from reviewing SoPs by Swapneel Mehta](https://twitter.com/swapneel_mehta/status/1458205557991563264?s=20)
 
