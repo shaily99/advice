@@ -125,6 +125,8 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [Olamide Olaoba's twitter thread on SoP structure](https://twitter.com/olaobamide/status/1444902290087763972)
 * [Thread on ending your SoP with a Bang by Sanya Jain](https://twitter.com/sjay_yayy/status/1458130990904139785?s=20)
 * [Thread on learning from reviewing SoPs by Swapneel Mehta](https://twitter.com/swapneel_mehta/status/1458205557991563264?s=20)
+* [MIT EECS's guide to graduate personal statement](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
+* [What faculty members are looking for in a grad school application essay - compiled by MIT EECS](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)
 
 #### Examples
 * [Jean Yang’s Statement of Purpose for a Ph.D. in Computer Science](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
@@ -136,6 +138,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [An example curated by Soundarya Balasubramaniam -- Original author unknown](https://drive.google.com/file/d/1Jq3eNS8s3QD6Y6fw0H0FiI_iDUa_uqmS/view)
 * [Another example curated by Soundarya Balasubramaniam -- Original author unknown](https://drive.google.com/file/d/1fSEWcd1vhT6gAqh234T-k7tLHS3CH3wA/view)
 * [Sachin Gururangan's personal research statement](https://drive.google.com/file/d/1vNXiser8NyLwH_sG8GcQ2isT_P5vETOt/view)
+* [Sai Siddartha Maram's repo of graduate admissions SOP](https://github.com/siddu1998/Graduate-Admissions)
 
 ### LoRs
 * [How to get a great letter of recommendation](https://matt.might.net/articles/how-to-recommendation-letter/)
@@ -167,6 +170,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [CS/HCI PhD Opportunity Tracker (2022)](http://www.andrewkuz.net/hci-opportunities-2022.html) -- This is a tweet tracker for recruitment tweets by profs, it may change every year.
 * [Application support programs - tweet thread compiled by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) -- the links may change every year. Application support programs are usually very very helpful, and typically you can use them even if you apply to MS.
 * [CS Ph-D recruiting networking event 2021](https://phd-recruiting.com/) -- has been happening from two years.
+* [CS PhD application fee waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers)
 
 ### List of lists
 Most of the links in these lists will appear in the rest of the list otherwise anyway.
