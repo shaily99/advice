@@ -141,12 +141,18 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [Sai Siddartha Maram's repo of graduate admissions SOP](https://github.com/siddu1998/Graduate-Admissions)
 
 ### LoRs
+
+#### Requesting LORs
 * [How to get a great letter of recommendation](https://matt.might.net/articles/how-to-recommendation-letter/)
+* [How to ask for an LOR by Casey Fiesler](https://www.youtube.com/watch?v=G17HyFybvKM&list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I&index=11)
+* How to get good letters of recommendation? by Sanya Jain: [Part 1](https://twitter.com/sjay_yayy/status/1421130708647432193), [Part 2](https://twitter.com/sjay_yayy/status/1439937786463723524)
 * [Requesting a letter of recommendation by Michael Ernst (UWash)](https://homes.cs.washington.edu/~mernst/advice/request-recommendation.html)
+
+#### Writing LORs
 * [Advice to Graduate School Recommendation Letter Writers by Shriram Krishnamurthi](http://cs.brown.edu/~sk/Memos/Grad-School-Recos/)
 * [How to write a letter of recommendation by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/write-recommendation.html)
-* [Letters of recommendation for graduate school | How to ask for an LOR by Casey Fiesler](https://www.youtube.com/watch?v=G17HyFybvKM&list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I&index=11)
-* How to get good letters of recommendation? by Sanya Jain: [Part 1](https://twitter.com/sjay_yayy/status/1421130708647432193), [Part 2](https://twitter.com/sjay_yayy/status/1439937786463723524)
+* [A thread on writing great letters by Fadel Adib](https://twitter.com/fadeladib/status/1465354271994494976?s=20)
+* [Gradschool advice - demystifying letters of recommendation by Krishna Murthy](https://krrish94.github.io/blog/gradschool-letters/)
 
 ### CV
 * [How to write a resume that doesn’t suck](https://www.askamanager.org/2018/06/how-to-write-a-resume-that-doesnt-suck.html)
