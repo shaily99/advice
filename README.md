@@ -52,6 +52,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * AI2 NLP Highlights Podcasts: PHD Application Series - [Preparing Aplication Materials](https://soundcloud.com/nlp-highlights/133-phd-application-series-preparing-application-materials-with-nathan-schneider-and-roma-patel), [PhDs in Europe v/s US](https://soundcloud.com/nlp-highlights/134-phd-application-series-phds-in-europe-versus-the-us)
 * [Student Perspectives on Applying to NLP PhD Programs](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/) -- MUST READ
 * [Himabindu Lakkaraju and Aditya Grover’s Panel](https://www.youtube.com/watch?v=z6TkkdlRWcU) -- Must watch, great insights from the panel.
+* [Demistifying PhD Admission application by Shriram Krishnamurthi (Brown CS)](https://www.youtube.com/watch?v=IprN9fPV2LI) -- nice nuggets on the admission process from a Prof's POV.
 * [PhD Application FAQs by Noah Smith (Faculty at UWash)](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit)
 * [Applying to Ph.D. Programs in Computer Science by Mor Harchol-Balter (Prof at CMU)](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) -- Very good breakdown of the process + a good insight into how to decide if its for you.
 * [How to get into grad school for science, engineering, math, and CS by Matt Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
