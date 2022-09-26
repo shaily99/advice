@@ -64,6 +64,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Pointers on grad school applications by Khimya](https://twitter.com/khimya/status/1308257695670120448)
 * [Reflecting on CS Graduate Admissions by David Anderson](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
 * [Applying to Ph.D. Programs in Computer Science by Mor Harchol-Balter, CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+* [Optimizing Your Machine Learning PhD Applications for Success by Scott Freitas](https://www.scottfreitas.com/blog/2022-phd-application-process)
 
 #### MS Specific
 * [Demystification of the Graduate Admissions Process by Karthik Raghunathan (MS from stanford, now director of ML at Cisco)](https://nlp.stanford.edu/~rkarthik/DAGAP.pdf)
