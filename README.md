@@ -12,7 +12,6 @@ __Table of Contents__
       * [ToDo PhD or Not / What doing a PhD Entails](#todo-phd-or-not--what-doing-a-phd-entails)
    * [Selecting Schools](#selecting-schools-and-advisors)
       * [After getting admits](#after-getting-admits)
-   * [Academia Datasets](#academia-datasets)
    * [Reaching out to prospective advisors](#reaching-out-to-prospective-advisors)
    * [SOP](#sop)
       * [Examples](#examples)
@@ -93,9 +92,6 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 
 #### After getting admits
 * [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov (HCII,CMU)](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
-
-### Academia Datasets
-* [Largest dataset on CS academia including Professor placements, rankings, conference outcomes/awards, faculty hiring trends, and PhD stipends by Jeff Huang's team (HCI, Brown)](https://jeffhuang.com/computer-science-open-data/). Summary by [Jina Yoon](https://twitter.com/jinayoon_/status/1514658265564520485?s=20&t=dVAuPk3jhok26yef_Ot2EA), raw data available at [Drafty](https://t.co/D1G7hxttrT), and four rankings line up at [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/)
 
 ### Reaching out to prospective advisors
 This might be helpful for cold emailing advisors for internships and prospective collaborators even outside of the PhD application process.
@@ -183,6 +179,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [Application support programs - tweet thread compiled by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) -- the links may change every year. Application support programs are usually very very helpful, and typically you can use them even if you apply to MS.
 * [CS Ph-D recruiting networking event 2021](https://phd-recruiting.com/) -- has been happening from two years.
 * [CS PhD application fee waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers)
+* [Largest dataset on CS academia including Professor placements, rankings, conference outcomes/awards, faculty hiring trends, and PhD stipends by Jeff Huang's team (HCI, Brown)](https://jeffhuang.com/computer-science-open-data/). Summary by [Jina Yoon](https://twitter.com/jinayoon_/status/1514658265564520485?s=20&t=dVAuPk3jhok26yef_Ot2EA), raw data available at [Drafty](https://t.co/D1G7hxttrT), and four rankings line up at [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/)
 
 ### List of lists
 Most of the links in these lists will appear in the rest of the list otherwise anyway.
