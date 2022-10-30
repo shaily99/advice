@@ -74,6 +74,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Demystifying the “Pre-Doctoral Researcher” role at Google Research, India by Shaily Bhatt (that's me)](https://shaily99.medium.com/demystifying-the-pre-doctoral-researcher-role-at-google-research-india-c063e5c73f10) -- I wrote this blog detailing my experience applying to the 'pre' doctoral program at Google. The advice is generally applicable for most predotoral/RA roles
 
 #### ToDo PhD or Not / What doing a PhD entails
+* [A course targeted at undergraduates which lays out the journey leading up to a research-first position (PhD) or job](https://csresearch101.netlify.app/)
 * [Undergrad to PhD, or not - advice for undergrads interested in research by John Hewitt (PhD student at Stanford)](https://nlp.stanford.edu//~johnhew//undergrad-researchers.html)
 * [The illustrated guide to a Ph.D. by Matt Might](https://matt.might.net/articles/phd-school-in-pictures/)
 * [Advice for Undergraduates Considering Graduate School](https://pages.gseis.ucla.edu/faculty/agre/grad-school.html)
@@ -141,6 +142,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [Another example curated by Soundarya Balasubramaniam -- Original author unknown](https://drive.google.com/file/d/1fSEWcd1vhT6gAqh234T-k7tLHS3CH3wA/view)
 * [Sachin Gururangan's personal research statement](https://drive.google.com/file/d/1vNXiser8NyLwH_sG8GcQ2isT_P5vETOt/view)
 * [Sai Siddartha Maram's repo of graduate admissions SOP](https://github.com/siddu1998/Graduate-Admissions)
+* [Shashank Srikant's research statement submitted to and accepted by CMU ISR/SCS](https://shashank-srikant.github.io/assets/pdf/academic_statement_of_purpose_sop_cmu.pdf)
 
 ### LoRs
 
