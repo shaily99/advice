@@ -116,6 +116,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [How to write a (Good) SOP by Saksham Consul (MS at STanford)](https://docs.google.com/document/d/1Y4Jcsnu5K7tHFh7o19WcLteH1wBtId7lGayizn2OfqA/edit?usp=sharing) -- This post was written by a college senior and is very comprehensive.
 * [Erica Weng's Tips and Tricks](https://docs.google.com/document/d/18ToRGeKL_B1IR1V20Jr3ODNDru5G3AfKatq2K75M260) -- absolute gold
 * [Advice On Grad School Applications by Luis Van Blog](http://vonahn.blogspot.com/2009/12/advice-on-grad-school-applications.html) -- Crisp and quick
+* [Saujas Vadguru's Annotated Statement of Purpose](https://saujasv.github.io/annotated-sop) -- great walkthrough of what to do (and what not to do) by a dear friend.
 * [ Christopher W. Fletcher's guide to Personal statements with examples of his own SOP](http://cwfletcher.net/Pages/SoP.php)
 * [Vijay Chidambaram's tweet thread on what to avoid while writing SOP (especially for international students)](https://twitter.com/vj_chidambaram/status/933388419589459969?s=20)
 * [5 Things to Do in a Statement of Purpose for PhD/Grad School | PhD SOP + an example (mine!) by Casey Fiesler](https://www.youtube.com/watch?v=B5-lrCaGLOw&list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I&index=11)
