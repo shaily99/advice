@@ -80,6 +80,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Is it worth it to go to grad school in computational linguistics? by Emily Bender](https://medium.com/@emilymenonbender/is-it-worth-it-to-go-to-grad-school-in-computational-linguistics-7234f0bd4981)
 * [Rabbit's Ph.D. Thesis and Lion's Watch Repair Business by Margaret Fleck](https://www.cs.hmc.edu/~fleck/parable.html)
 * [Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later By Roland Azuma](https://ronaldazuma.com/hitch4.html)
+* [A course targeted at undergraduates which lays out the journey leading up to a research-first position (PhD) or job](https://csresearch101.netlify.app/)
 
 ### Selecting Schools and Advisors
 * [A Vlog on using CSRankings to find CS PhD programs by Philip Guo](https://www.youtube.com/watch?v=z6TkkdlRWcU) -- Don't blindly go by rankings, but don't ignore them either.
@@ -143,6 +144,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [Another example curated by Soundarya Balasubramaniam -- Original author unknown](https://drive.google.com/file/d/1fSEWcd1vhT6gAqh234T-k7tLHS3CH3wA/view)
 * [Sachin Gururangan's personal research statement](https://drive.google.com/file/d/1vNXiser8NyLwH_sG8GcQ2isT_P5vETOt/view)
 * [Sai Siddartha Maram's repo of graduate admissions SOP](https://github.com/siddu1998/Graduate-Admissions)
+* [Shashank Srikant's research statement submitted to and accepted by CMU ISR/SCS](https://shashank-srikant.github.io/assets/pdf/academic_statement_of_purpose_sop_cmu.pdf)
 
 ### LoRs
 
