@@ -82,7 +82,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Everything I wanted to know about C.S. graduate school at the beginning but didn’t learn until later By Roland Azuma](https://ronaldazuma.com/hitch4.html)
 
 ### Selecting Schools and Advisors
-* [A Vlog on using CSRankings to find CS PhD programs by Philip Guo](https://www.youtube.com/watch?v=z6TkkdlRWcU) -- Don't blindly go by rankings, but don't ignore them either.
+* [A Vlog on using CSRankings to find CS PhD programs by Philip Guo](https://www.youtube.com/watch?v=hOSl3xPmHiQ) -- Don't blindly go by rankings, but don't ignore them either.
 * [How to pick a grad school for a PhD in Computer Science by Vijay Chidambaram](https://vijayc.medium.com/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246)
 * [How to Pick Your Grad School by Tim Dettmers](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/)
 * [University Rankings for PhD Applications by Danish Pruthi and Mansi Gupta](https://latentfactors.blog/2020/12/06/university-rankings-for-phd-applications/)
