@@ -68,7 +68,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Optimizing Your Machine Learning PhD Applications for Success by Scott Freitas](https://www.scottfreitas.com/blog/2022-phd-application-process)
 
 #### MS Specific
-* [Demystification of the Graduate Admissions Process by Karthik Raghunathan (MS from stanford, now director of ML at Cisco)](https://nlp.stanford.edu/~rkarthik/DAGAP.pdf)
+* [Demystification of the Graduate Admissions Process by Karthik Raghunathan (MS from stanford, now director of ML at Cisco)](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf)
 
 #### Applying to Predoctoral programs
 * [Demystifying the “Pre-Doctoral Researcher” role at Google Research, India by Shaily Bhatt (that's me)](https://shaily99.medium.com/demystifying-the-pre-doctoral-researcher-role-at-google-research-india-c063e5c73f10) -- I wrote this blog detailing my experience applying to the 'pre' doctoral program at Google. The advice is generally applicable for most predotoral/RA roles
