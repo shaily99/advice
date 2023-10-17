@@ -132,6 +132,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [What faculty members are looking for in a grad school application essay - compiled by MIT EECS](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)
 
 #### Examples
+* [A website with CS PhD SOPs crowd-sourced from applicants](https://cs-sop.notion.site/cs-sop/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
 * [Jean Yang’s Statement of Purpose for a Ph.D. in Computer Science](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
 * [Nelson Liu's SOP for CS PhD applications](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/)
 * [Jeremy Lacomis’ Statement of Purpose for a Ph.D. at Carnegie Mellon University focusing on Software Engineering focusing on Programming Languages](https://www.cs.cmu.edu/~jlacomis/assets/statement/personal-statement-cmu.pdf)
