@@ -178,10 +178,11 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [A thread on coming up with research questions for SOP, cold mails by Sanya Jain](https://twitter.com/sjay_yayy/status/1449353152529002502?s=20)
 * [9 MISTAKES to avoid while applying for graduate programs thread by Sanya Jain](https://twitter.com/sjay_yayy/status/1431258774870757380)
 
-### Helpful tools/resources
+### Tools and Resources
 * [CS Rankings](csrankings.org)
 * [CS/HCI PhD Opportunity Tracker (2022)](http://www.andrewkuz.net/hci-opportunities-2022.html) -- This is a tweet tracker for recruitment tweets by profs, it may change every year.
 * [Application support programs tracker 2023-2024](https://www.andrewkuz.net/public/dashboards/cs-hci-phd-application-review-programs/2024/html/cs-hci-phd-application-review-programs-2024.html) -- the links may change every year. Application support programs are usually very very helpful, and typically you can use them even if you apply to MS.
+* [CS PhD Stipends and living costs across US universities](csstipendrankings.org)
 * [CS PhD recruiting networking event 2021](https://phd-recruiting.com/) -- has been happening from two years.
 * [Largest dataset on CS academia including Professor placements, rankings, conference outcomes/awards, faculty hiring trends, and PhD stipends by Jeff Huang's team (HCI, Brown)](https://jeffhuang.com/computer-science-open-data/). Summary by [Jina Yoon](https://twitter.com/jinayoon_/status/1514658265564520485?s=20&t=dVAuPk3jhok26yef_Ot2EA), raw data available at [Drafty](https://t.co/D1G7hxttrT), and four rankings line up at [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/)
 
