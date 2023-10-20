@@ -21,6 +21,7 @@ __Table of Contents__
    * [Interview preparation](#interview-preparation)
    * [Misc](#misc)
    * [Resources](#resources)
+   * [Financial Aid](#financial-aid)
    * [List of Lists](#list-of-lists)
 * [Research](#research)
    * [General](#general-1)
