@@ -73,6 +73,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 
 #### Applying to Predoctoral programs
 * [Demystifying the “Pre-Doctoral Researcher” role at Google Research, India by Shaily Bhatt (that's me)](https://shaily99.medium.com/demystifying-the-pre-doctoral-researcher-role-at-google-research-india-c063e5c73f10) -- I wrote this blog detailing my experience applying to the 'pre' doctoral program at Google. The advice is generally applicable for most predotoral/RA roles
+* [How to find a Research Opportunity by Vipul Gupta](https://medium.com/@guptavipul1011/how-to-find-research-assistantship-cd87d949118e)
 
 #### ToDo PhD or Not / What doing a PhD entails
 * [Undergrad to PhD, or not - advice for undergrads interested in research by John Hewitt (PhD student at Stanford)](https://nlp.stanford.edu//~johnhew//undergrad-researchers.html)
