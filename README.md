@@ -180,10 +180,13 @@ This might be helpful for cold emailing advisors for internships and prospective
 ### Helpful tools/resources
 * [CS Rankings](csrankings.org)
 * [CS/HCI PhD Opportunity Tracker (2022)](http://www.andrewkuz.net/hci-opportunities-2022.html) -- This is a tweet tracker for recruitment tweets by profs, it may change every year.
-* [Application support programs - tweet thread compiled by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1446981455683407873?s=20) -- the links may change every year. Application support programs are usually very very helpful, and typically you can use them even if you apply to MS.
-* [CS Ph-D recruiting networking event 2021](https://phd-recruiting.com/) -- has been happening from two years.
-* [CS PhD application fee waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers)
+* [Application support programs tracker 2023-2024](https://www.andrewkuz.net/public/dashboards/cs-hci-phd-application-review-programs/2024/html/cs-hci-phd-application-review-programs-2024.html) -- the links may change every year. Application support programs are usually very very helpful, and typically you can use them even if you apply to MS.
+* [CS PhD recruiting networking event 2021](https://phd-recruiting.com/) -- has been happening from two years.
 * [Largest dataset on CS academia including Professor placements, rankings, conference outcomes/awards, faculty hiring trends, and PhD stipends by Jeff Huang's team (HCI, Brown)](https://jeffhuang.com/computer-science-open-data/). Summary by [Jina Yoon](https://twitter.com/jinayoon_/status/1514658265564520485?s=20&t=dVAuPk3jhok26yef_Ot2EA), raw data available at [Drafty](https://t.co/D1G7hxttrT), and four rankings line up at [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/)
+
+### Financial Aid
+* [CS PhD application fee waivers](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers)
+* [Queern in AI's program to provide financial aid ot queer applicants](https://www.queerinai.com/grad-app-aid) -- The page can change every year; Please consider donating to this cause!
 
 ### List of lists
 Most of the links in these lists will appear in the rest of the list otherwise anyway.
