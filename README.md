@@ -103,7 +103,7 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [A note on cold-mailing professors by Yontan Bisk](https://yonatanbisk.com/emailing_professors.html)
 * [A Guide to Cold Emailing by Eugene Vinitsky](https://eugenevinitsky.github.io/posts/2020-12-25-coldemails.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter) and [tweet thread](https://twitter.com/EugeneVinitsky/status/1288629007802462208)
 * [5 Tips for E-mailing Busy People](https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/)
-* [People you should cold mail other than the prospective advisor - a thread by Sanya Jain](https://twitter.com/sjay_yayy/status/1447192031248351236)
+* [People you should cold mail other than the prospective advisor - a thread by Sanya Jain](https://en.rattibha.com/thread/1432333371405967362)
 * [Writing Cold Emails by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1420611683035324425)
 * [Twitter thread on writing cold-emails by Sanya Jain](https://twitter.com/sjay_yayy/status/1418978638494519297)
 * Threads on cold-mailing by Sanya Jain: [No Response](https://twitter.com/sjay_yayy/status/1431654767739035653) [Positive Response](https://twitter.com/sjay_yayy/status/1436031455474294786)
