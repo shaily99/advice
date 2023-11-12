@@ -67,6 +67,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [Reflecting on CS Graduate Admissions by David Anderson](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
 * [Applying to Ph.D. Programs in Computer Science by Mor Harchol-Balter, CMU](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 * [Optimizing Your Machine Learning PhD Applications for Success by Scott Freitas](https://www.scottfreitas.com/blog/2022-phd-application-process)
+* [General FAQ on PhD admissions by Siddharth Gairola](https://docs.google.com/document/d/1FUYsiGFAYx8B4pH-y_swCcsv81x6SPut/edit)
 
 #### MS Specific
 * [Demystification of the Graduate Admissions Process by Karthik Raghunathan (MS from stanford, now director of ML at Cisco)](https://cs.stanford.edu/people/rkarthik/DAGAP.pdf)
@@ -92,6 +93,7 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 * [How to Pick a Graduate Advisor](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)
 * [How to short list professors for your PhD/ Master’s? by Sanya Jain](https://twitter.com/sjay_yayy/status/1443969538631012355)
 * [Choosing a graduate adviser by by Jen Heemstra, special to C&EN](https://cen.acs.org/careers/graduate-school/Choosing-graduate-adviser/99/i33)
+* [Advice on selecting schools by Bai Li](https://luckytoilet.wordpress.com/2017/03/29/applying-to-graduate-school-in-computer-science/)
 
 #### After getting admits
 * [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov (HCII,CMU)](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
@@ -133,6 +135,8 @@ This might be helpful for cold emailing advisors for internships and prospective
 * [Thread on learning from reviewing SoPs by Swapneel Mehta](https://twitter.com/swapneel_mehta/status/1458205557991563264?s=20)
 * [MIT EECS's guide to graduate personal statement](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 * [What faculty members are looking for in a grad school application essay - compiled by MIT EECS](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)
+* [Thread on Statement of Purpose by Chris Blattman](https://threadreaderapp.com/thread/1593606505340801024.html)
+* [Khalid Saidullaah's SOP advice with SOP attached](https://github.com/khalidsaifullaah/grad-school_application_materials)
 
 #### Examples
 * [A website with CS PhD SOPs crowd-sourced from applicants](https://cs-sop.notion.site/cs-sop/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
